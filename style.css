@@ -1,0 +1,36 @@
+body {
+   background: #9b9191;
+   font-family: Verdana;
+   max-width: 900px;
+   margin: auto;
+}
+
+a {
+color: green;
+}
+
+kevin-ku-w7ZyuGYNpRQ-unsplash {
+   border: 3px solid #000;
+   border-radius: 50px;
+}
+
+p {
+font-size: 20px;               
+}
+
+h1 {
+  font-size:30px;
+  color: black;                  
+} 
+
+h2 {
+   color: rgb(3, 3, 3);  
+}
+
+h3 {
+   color: rgb(48, 48, 42);
+}
+
+ul {
+   list-style-type: square;
+}
